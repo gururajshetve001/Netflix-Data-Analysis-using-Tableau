@@ -27,5 +27,3 @@ This repository showcases a comprehensive analysis of Netflix data using tools l
 
 ## Contributions
 Contributions and feedback are encouraged. All necessary files and datasets are available for reuse.
-
-For detailed information, visit the [GitHub repository](https://github.com/gulshang7/Netflix_Data_Analysis_using_Tableau).
